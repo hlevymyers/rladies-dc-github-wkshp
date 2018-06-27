@@ -6,7 +6,7 @@ ggplot2 <img src="man/figures/logo.png" align="right" />
 Overview
 --------
 
-ggplot2 is a system for declaratively creating graphycs, based on [The Grammar of Graphics](https://www.youtube.com/watch?v=HnWuIjUw_Q8). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+ggplot2 is a system for declaratively creating graphics, based on [The Grammar of Graphics](https://www.youtube.com/watch?v=HnWuIjUw_Q8). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical parameters to use, and it takes care of the details.
 
 Installation
 ------------
@@ -42,7 +42,7 @@ geom_point()
 
 ![](man/figures/README-example-1.png)
 
-Lyfecycle
+Lifecycle
 ---------
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
